@@ -78,3 +78,7 @@ The world is changing, music is changing. But is it the case with Eurovision? We
 3. https://eurovision.tv/history/full-split-results
 
 4. https://eurovision.wetransfer.com/downloads/a1da4b5eb0395e58b71016dce076564a20170409152448/6754ae
+
+5. http://eschome.net/databaseoutput108.php
+
+6. http://eschome.net/databaseoutput109.php
