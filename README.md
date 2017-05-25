@@ -1,3 +1,13 @@
+- [Eurovision mining](#eurovision-mining)
+    + [**[Interactive map](https://public.tableau.com/profile/oleksandr1000#!/vizhome/shared/TTGSHH6FP)**](#---interactive-map--https---publictableaucom-profile-oleksandr1000---vizhome-shared-ttgshh6fp---)
+- [Voting biases analysis](#voting-biases-analysis)
+- [Historical clustering data](#historical-clustering-data)
+- [Genres and languages](#genres-and-languages)
+    + [**[Interactive visualisation](https://public.tableau.com/profile/oleksandr1000#!/vizhome/EurovisionGenres/Dashboard1)**](#---interactive-visualisation--https---publictableaucom-profile-oleksandr1000---vizhome-eurovisiongenres-dashboard1---)
+- [Measure of success](#measure-of-success)
+    + [**[Interactive map](https://public.tableau.com/views/SuccessStory/ParticipantsSuccess?:embed=y&:display_count=yes)**](#---interactive-map--https---publictableaucom-views-successstory-participantssuccess--embed-y--display-count-yes---)
+- [Repository contents](#repository-contents)
+- [[Data sources](Source.txt)](#-data-sources--sourcetxt-)
 
 # Eurovision mining
 
