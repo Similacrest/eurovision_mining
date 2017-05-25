@@ -1,8 +1,8 @@
 - [Eurovision mining](#eurovision-mining)
-  - [Voting biases analysis](#voting-biases-analysis)
+- [Voting biases analysis](#voting-biases-analysis)
 - [Historical clustering data](#historical-clustering-data)
 - [Genres and languages](#genres-and-languages)
-  [Measure of success](#measure-of-success)
+- [Measure of success](#measure-of-success)
 - [Repository contents](#repository-contents)
 - [Data sources](#-data-sources--sourcetxt-)
 
