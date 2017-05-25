@@ -1,4 +1,4 @@
-- [Eurovision mining](#eurovision-mining)
+- [EuroDivision:  mining Eurovision song contest data](#eurodivision---mining-eurovision-song-contest-data)
 - [Voting biases analysis](#voting-biases-analysis)
 - [Historical clustering data](#historical-clustering-data)
 - [Genres and languages](#genres-and-languages)
@@ -6,7 +6,7 @@
 - [Repository contents](#repository-contents)
 - [Data sources](#-data-sources--sourcetxt-)
 
-# Eurovision mining
+# EuroDivision:  mining Eurovision song contest data
 
 A project by Artem Mateush, Oleksandr Cherednychenko, Gerson Noboa and Vasiliy Skydanienko, made for University of Tartu [Data Mining](https://courses.cs.ut.ee/2017/dm/spring) course. 
 
@@ -76,6 +76,5 @@ The world is changing, music is changing. But is it the case with Eurovision? We
 
 2. https://data.world/datagraver/eurovision-song-contest-scores
 
-3. https://eurovision.tv/history/full-split-results
-
-4. https://eurovision.wetransfer.com/downloads/a1da4b5eb0395e58b71016dce076564a20170409152448/6754ae
+3. https://eurovision.wetransfer.com/downloads/a1da4b5eb0395e58b71016dce076564a20170409152448/6754ae
+4. http://eschome.net
