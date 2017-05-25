@@ -1,4 +1,4 @@
-- [Eurovision mining](#eurovision-mining)
+- [EuroDivision:  mining Eurovision song contest data](#eurodivision---mining-eurovision-song-contest-data)
 - [Voting biases analysis](#voting-biases-analysis)
 - [Historical clustering data](#historical-clustering-data)
 - [Genres and languages](#genres-and-languages)
@@ -6,7 +6,7 @@
 - [Repository contents](#repository-contents)
 - [Data sources](#-data-sources--sourcetxt-)
 
-# Eurovision mining
+# EuroDivision:  mining Eurovision song contest data
 
 A project by Artem Mateush, Oleksandr Cherednychenko, Gerson Noboa and Vasiliy Skydanienko, made for University of Tartu [Data Mining](https://courses.cs.ut.ee/2017/dm/spring) course. 
 
