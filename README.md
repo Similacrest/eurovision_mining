@@ -69,6 +69,7 @@ The world is changing, music is changing. But is it the case with Eurovision? We
 * [pics/png/](pics/png/), [pics/vector/](pics/vector/) - renderings of different pictures produced
 * [tableau_maps](tableau_maps/) — source files for maps and "Genres and languages", use [Tableau Reader](https://www.tableau.com/products/reader) to see;
 * [excel/](excel/) — processed source files and files for Tableau visualisations
+* [poster.pdf](poster.pdf) — our poster
 
 # [Data sources](Source.txt)
 1. https://eurovision.tv/history/full-split-results
